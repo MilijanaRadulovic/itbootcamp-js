@@ -1,0 +1,12 @@
+h2{
+    text-align: center;
+    color: yellow;
+}
+body{
+    background-color: wheat;
+}
+img{
+    
+    border: 10px solid yellowgreen;
+    outline: 5px solid green;
+}
